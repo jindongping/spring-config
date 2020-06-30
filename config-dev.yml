@@ -1,5 +1,8 @@
 server:
   port:8001
+config:
+  info: "mater config-dev.yml"
+
 spring:
   application:
     name: cloud-config-center
