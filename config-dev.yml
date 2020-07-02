@@ -1,7 +1,7 @@
 server:
   port:8001
 config:
-  info: "mater config-dev.yml version-2"
+  info: "mater config-dev.yml version-3"
 
 spring:
   application:
